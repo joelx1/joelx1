@@ -8,3 +8,5 @@
 - **Languages**
   - Java
   - C++
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelx1&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api?username=joelx1&show_icons=true&theme=radical" />
