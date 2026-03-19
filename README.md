@@ -2,7 +2,8 @@
 2nd Year CS Student
 
 🔭 **I’m currently working on**
-- Project: [library-system](https://github.com/joelx1/library-system)
+- Personal Project: [library-system](https://github.com/joelx1/library-system)
+- Group Project: [location-recommender](https://github.com/joelx1/location-recommender)
 
 🌱 **I’m currently learning**
 - **Languages**
